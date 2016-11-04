@@ -18,17 +18,33 @@ Some frequently asked questions.
 
 ### What is CSS Grid Layout?
 
-
-### Is Grid a replacement for Flexbox?
-
-
-### Grid isn't working in my browser!
-
+CSS Grid Layout is a CSS specification for two dimensional layout. You can find the specification [here](https://www.w3.org/TR/css-grid-1/).
 
 ### How do I get started learning CSS Grid Layout?
 
+I have lots of small examples and a growing collection of video tutorials, in addition to links to other resources over at [Grid by Example](http://gridbyexample.com).
 
+### Is Grid a replacement for Flexbox?
 
-## Where did this come from?
+No. Grid is for a different use case than flexbox - athough there are times you could use either spec. Here is a more complete explanation - [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
-This project started due to a [Twitter conversation](https://twitter.com/rachelandrew/status/793917607787184128). I thought it would be fun to do a workshop type thing where peope ask me stuff about CSS Grid Layout and I build examples to answer the questions. Stuart Robson suggested the AMA format, and so here we are.
+### Grid isn't working in my browser!
+
+At the current time CSS Grid Layout is behind feature flags in browsers. It is very well implemented in Firefox, Blink (so in Chrome and Opera etc.) and Safari if you use the Technology Preview. The prefixed implementation in Internet Explorer and Edge is the original spec as developed by Microsoft, and at this point is quite different to the specification that is now a Candidate Recommendation.
+
+For how to enable flags, more browser information and links to the meta bugs on the browser bug trackers see my page at [http://gridbyexample.com/browsers](http://gridbyexample.com/browsers).
+
+### Who are you?
+
+I'm Rachel Andrew, I'm a UK web developer, writer, public speaker and co-founder of Perch CMS. I'm also a CSS Working Group Invited Expert and Google Developer Expert for Web Technologies. I like the web. I'm especially interested in layout.
+
+- You can follow me on [Twitter](https://twitter.com/rachelandrew)
+- [Read my blog](https://rachelandrew.co.uk/archives/)
+- Find out [where I am speaking](https://rachelandrew.co.uk/speaking/), or [ask me to speak](https://rachelandrew.co.uk/about/speaking)
+- [Buy my book about CSS Grid Layout](https://abookapart.com/products/get-ready-for-css-grid-layout)
+- Sign up for my [online CSS Layout Workshop](https://thecssworkshop.com/)
+- [Send me an email](mailto:me@rachelandrew.co.uk)
+
+### Why are you doing this?
+
+This project started due to a [Twitter conversation](https://twitter.com/rachelandrew/status/793917607787184128). I thought it would be fun to do a workshop type thing where people ask me stuff about CSS Grid Layout and I build examples to answer the questions. Stuart Robson suggested the AMA format, and so here we are.
