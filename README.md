@@ -34,6 +34,8 @@ At the current time CSS Grid Layout is behind feature flags in browsers. It is v
 
 For how to enable flags, more browser information and links to the meta bugs on the browser bug trackers see my page at [http://gridbyexample.com/browsers](http://gridbyexample.com/browsers).
 
+If you are playing around with Grid I'd suggest using something like Chrome Canary or a Firefox Nightly as then you will be getting all the latest things that are implemented or fixed by the browser engineers much more quickly.
+
 ### Who are you?
 
 I'm Rachel Andrew, I'm a UK web developer, writer, public speaker and co-founder of [Perch CMS](https://grabaperch.com). I'm also a CSS Working Group Invited Expert and Google Developer Expert for Web Technologies. I like the web. I'm especially interested in layout.
