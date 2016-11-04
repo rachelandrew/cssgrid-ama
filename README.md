@@ -36,7 +36,7 @@ For how to enable flags, more browser information and links to the meta bugs on 
 
 ### Who are you?
 
-I'm Rachel Andrew, I'm a UK web developer, writer, public speaker and co-founder of Perch CMS. I'm also a CSS Working Group Invited Expert and Google Developer Expert for Web Technologies. I like the web. I'm especially interested in layout.
+I'm Rachel Andrew, I'm a UK web developer, writer, public speaker and co-founder of [Perch CMS](https://grabaperch.com). I'm also a CSS Working Group Invited Expert and Google Developer Expert for Web Technologies. I like the web. I'm especially interested in layout.
 
 - You can follow me on [Twitter](https://twitter.com/rachelandrew)
 - [Read my blog](https://rachelandrew.co.uk/archives/)
