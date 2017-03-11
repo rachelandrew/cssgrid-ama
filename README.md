@@ -14,6 +14,8 @@ This project means I can answer things once and benefit more people!
 
 **Please post a reduced test case that shows your problems**. Otherwise you are asking me to do that work for you. Remove everything that does not relate to the issue.
 
+See [this article by Lea Verou](https://www.smashingmagazine.com/2011/09/help-the-community-report-browser-bugs/) if you need to know what a reduced test case is.
+
 ## FAQ
 
 Some frequently asked questions.
