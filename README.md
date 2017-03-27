@@ -10,7 +10,7 @@ This project means I can answer things once and benefit more people!
 2. To ask a question raise an Issue
 3. Answered questions can be viewed by looking at the closed issues
 4. Try and keep questions to single things, eg: "how do I build this entire application layout?" is probably not something I'm going to answer, whereas "Here is an illustration of a component, how do I get these boxes to all be the same height?" is.
-5. A CodePen/gist/jsbin example if you have a code issue or a illustration (however rough) will _really help_.
+5. A CodePen/gist/jsbin example if you have a code issue or an illustration (however rough) will _really help_.
 
 **Please post a reduced test case that shows your problems**. Otherwise you are asking me to do that work for you. Remove everything that does not relate to the issue.
 
@@ -30,7 +30,7 @@ I have lots of small examples and a growing collection of video tutorials, in ad
 
 ### Is Grid a replacement for Flexbox?
 
-No. Grid is for a different use case than flexbox - athough there are times you could use either spec. Here is a more complete explanation - [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+No. Grid is for a different use case than flexbox - although there are times you could use either spec. Here is a more complete explanation - [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
 ### Grid isn't working in my browser!
 
