@@ -30,7 +30,7 @@ I have lots of small examples and a growing collection of video tutorials, in ad
 
 ### Is Grid a replacement for Flexbox?
 
-No. Grid is for a different use case than flexbox - athough there are times you could use either spec. Here is a more complete explanation - [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+No. Grid is for a different use case than flexbox - although there are times you could use either spec. Here is a more complete explanation - [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
 ### Grid isn't working in my browser!
 
