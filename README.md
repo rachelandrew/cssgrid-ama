@@ -34,11 +34,15 @@ No. Grid is for a different use case than flexbox - athough there are times you 
 
 ### Grid isn't working in my browser!
 
-At the current time CSS Grid Layout is behind feature flags in browsers. It is very well implemented in Firefox, Blink (so in Chrome and Opera etc.) and Safari if you use the Technology Preview. The prefixed implementation in Internet Explorer and Edge is the original spec as developed by Microsoft, and at this point is quite different to the specification that is now a Candidate Recommendation.
+Grid is now shipped in the latest versions of Chrome, Firefox, Opera and Safari - including iOS Safari. Make sure your browser is up to date and you can see Grid Layout.
 
-For how to enable flags, more browser information and links to the meta bugs on the browser bug trackers see my page at [http://gridbyexample.com/browsers](http://gridbyexample.com/browsers).
+For more browser information and links to the meta bugs on the browser bug trackers see my page at [http://gridbyexample.com/browsers](http://gridbyexample.com/browsers).
 
-If you are playing around with Grid I'd suggest using something like Chrome Canary or a Firefox Nightly as then you will be getting all the latest things that are implemented or fixed by the browser engineers much more quickly.
+### What about old browsers?
+
+I've written a cheatsheet detailing fallback and overrides that you can find [on my site](https://rachelandrew.co.uk/archives/2017/03/20/css-grid-fallbacks-and-overrides/). Also take a look at the guide to [progressive enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement) that I wrote for MDN.
+
+Internet Explorer 10 and 11 and Edge use an implementation of the old specification, [more details here](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/).
 
 ### Who are you?
 
