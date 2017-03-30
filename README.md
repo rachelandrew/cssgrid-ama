@@ -10,7 +10,7 @@ This project means I can answer things once and benefit more people!
 2. To ask a question raise an Issue
 3. Answered questions can be viewed by looking at the closed issues
 4. Try and keep questions to single things, eg: "how do I build this entire application layout?" is probably not something I'm going to answer, whereas "Here is an illustration of a component, how do I get these boxes to all be the same height?" is.
-5. A CodePen/gist/jsbin example if you have a code issue or a illustration (however rough) will _really help_.
+5. A CodePen/gist/jsbin example if you have a code issue or an illustration (however rough) will _really help_.
 
 **Please post a reduced test case that shows your problems**. Otherwise you are asking me to do that work for you. Remove everything that does not relate to the issue.
 
