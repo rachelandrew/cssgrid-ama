@@ -58,3 +58,22 @@ I'm Rachel Andrew, I'm a UK web developer, writer, public speaker and co-founder
 ### Why are you doing this?
 
 This project started due to a [Twitter conversation](https://twitter.com/rachelandrew/status/793917607787184128). I thought it would be fun to do a workshop type thing where people ask me stuff about CSS Grid Layout and I build examples to answer the questions. Stuart Robson suggested the AMA format, and so here we are.
+
+### Is it possible to transition or animate between Grid layouts?
+
+For example, can one smoothly animate between
+
+```css
+.foo {
+  grid-template-columns: 1fr 0fr;
+}
+```
+
+and 
+
+```css
+.foo {
+  grid-template-columns: 0fr 1fr;
+}
+```
+The [spec](https://drafts.csswg.org/css-grid/#propdef-grid-template-columns) indicates that one _should_ be able to, where the list is simple, but [this example](https://codepen.io/codedsignal/pen/yboYaa?editors=0100) doesn't work as expected (by me!)
