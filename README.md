@@ -4,12 +4,14 @@ I've been working with, writing and speaking about the CSS Grid Layout specifica
 
 This project means I can answer things once and benefit more people!
 
+**Note: I'll answer reduced examples here. I can't offer free consultancy in terms of how to create your entire layout, or to debug larger issues. Sorry! If your question essentially is going to involve a bunch of work before I can even see what the issue is, I will ask you to do that.**
+
 ## Guidelines
 
 1. I will answer questions about CSS Grid Layout and related specifications.
 2. To ask a question raise an Issue
 3. Answered questions can be viewed by looking at the closed issues
-4. Try and keep questions to single things, eg: "how do I build this entire application layout?" is probably not something I'm going to answer, whereas "Here is an illustration of a component, how do I get these boxes to all be the same height?" is.
+4. Try and keep questions to single things, eg: "how do I build this entire application layout?" is not something I'm going to answer, whereas "Here is an illustration of a component, how do I get these boxes to all be the same height?" is.
 5. A CodePen/gist/jsbin example if you have a code issue or a illustration (however rough) will _really help_.
 
 **Please post a reduced test case that shows your problems**. Otherwise you are asking me to do that work for you. Remove everything that does not relate to the issue.
